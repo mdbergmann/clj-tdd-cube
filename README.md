@@ -1,5 +1,7 @@
 # clj-tdd-cube
 
+![Alt text](doc/Image_1.png?raw=true)
+
 A tiny tool for people doing TDD.
 
 It just shows the current phase you are in, red-green-yellow.
