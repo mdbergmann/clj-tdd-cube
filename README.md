@@ -12,6 +12,10 @@ The window is always on top to that you can easily reach the tool when developin
 
 ## building a standalone executable
 
+A standalone binary is available under releases.
+
+If you want to build yourself,
+
 just use `lein uberjar` 
 
 Then either double click on the jar or run from console.
